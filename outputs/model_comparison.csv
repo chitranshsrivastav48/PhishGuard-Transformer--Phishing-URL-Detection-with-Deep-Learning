@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,f1
+"XGBoost (classic ML, lexical features)",0.9927777777777778,0.9966405375139977,0.9888888888888889,0.992749581706637
+"DistilBERT (fine-tuned, raw URL text, TensorFlow/Keras)",0.9972222222222222,1.0,0.9944444444444445,0.9972144846796658

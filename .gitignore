@@ -1,0 +1,4 @@
+phishnet_distilbert_final/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
